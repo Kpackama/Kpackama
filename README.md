@@ -2,7 +2,7 @@
 - 👀 I’m interested in Puppet theatre, Funny stuff, Game Development, Music & all kinds of Art
 - 🌱 I’m currently learning to use Godot Engine and GDScript
 - 💞️ I’m looking to collaborate on... eh, any cool project, especially funny, however I possess little time :)
-- 📫 How to reach me ... just write me an e-mail at kpackama@gmail.com
+- 📫 How to reach me ... just write me an e-mail at kpackama@gmail.com or find me on Facebook: Краси Кирчев. I am relatively active in the Godot FB group :)
 
 <!---
 Kpackama/Kpackama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
